@@ -27,7 +27,7 @@ This repo collects papers, documents, and codes about model quantization for any
 
 *We **highlight** our newly released awesome open-source project "[**Awesome Efficient LLM_Diffusion**](https://github.com/efficient-ml/awesome-efficient-llm-diffusion)". Specifically, this project focuses on recent methods for compression and acceleration of generative models, such as large language models and diffusion models. Welcome to Star the Repo or PR any work you like!*
 
-https://github.com/htqin/awesome-efficient-aigc [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![GitHub Repo stars](https://img.shields.io/github/stars/htqin/awesome-efficient-aigc)
+https://github.com/efficient-ml/awesome-efficient-llm-diffusion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![GitHub Repo stars](https://img.shields.io/github/stars/efficient-ml/awesome-efficient-llm-diffusion)
 
 ## Benchmark
 
