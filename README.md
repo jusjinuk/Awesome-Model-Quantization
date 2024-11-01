@@ -1,10 +1,10 @@
 # Awesome Model Quantization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repo collects papers, documents, and codes about model quantization for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that the repo misses.
+This repo collects papers, documents, and codes about model quantization for anyone who wants to research it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that the repo misses.
 
 ## Table of Contents
 
-- [Efficient AIGC Repo](#Efficient_AIGC_Repo)
+- [Awesome-Efficient-LLM-Diffusion](#Awesome_Efficient_LLM_Diffusion)
 - [Benchmark](#benchmark)
   - [BiBench](#bibench)
   - [MQBench](#mqbench)
@@ -23,9 +23,9 @@ This repo collects papers, documents, and codes about model quantization for any
   - [2016](#2016)
   - [2015](#2015)
 
-## Efficient_AIGC_Repo
+## Awesome_Efficient_LLM_Diffusion
 
-*We **highlight** our newly released awesome open-source project "[**Awesome Efficient AIGC**](https://github.com/htqin/awesome-efficient-aigc)". Specifically, this project focuses on recent methods for compression and acceleration of generative models, such as large language models and diffusion models. Welcome to Star the Repo or PR any work you like!*
+*We **highlight** our newly released awesome open-source project "[**Awesome Efficient LLM_Diffusion**](https://github.com/efficient-ml/awesome-efficient-llm-diffusion)". Specifically, this project focuses on recent methods for compression and acceleration of generative models, such as large language models and diffusion models. Welcome to Star the Repo or PR any work you like!*
 
 https://github.com/htqin/awesome-efficient-aigc [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![GitHub Repo stars](https://img.shields.io/github/stars/htqin/awesome-efficient-aigc)
 
@@ -50,7 +50,7 @@ The paper **BiBench: Benchmarking and Analyzing Network Binarization** (_ICML 20
 
 ### MQBench
 
-The paper **MQBench: Towards Reproducible and Deployable Model Quantization Benchmark** (_NeurIPS 2021_) is a benchmark and framework for evluating the quantization algorithms under real world hardware deployments. For details, please refer to:
+The paper **MQBench: Towards Reproducible and Deployable Model Quantization Benchmark** (_NeurIPS 2021_) is a benchmark and framework for evaluating the quantization algorithms under real-world hardware deployments. For details, please refer to:
 
 **MQBench: Towards Reproducible and Deployable Model Quantization Benchmark** [[Paper](https://arxiv.org/abs/2111.03759)] [[Project](http://mqbench.tech/)]
 
