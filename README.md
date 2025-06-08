@@ -12,6 +12,7 @@ This repo collects papers, documents, and codes about model quantization for any
   - [Survey\_of\_Binarization](#survey_of_binarization)
   - [Survey\_of\_Quantization](#survey_of_quantization)
 - [Papers](#papers)
+  - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
