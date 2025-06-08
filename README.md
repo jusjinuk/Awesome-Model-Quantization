@@ -109,6 +109,10 @@ Amir Gholami\* , Sehoon Kim\* , Zhen Dong\* , Zhewei Yao\* , Michael W. Mahoney,
 
 ----
 
+### 2025
+
+- [[ICML](https://arxiv.org/abs/2505.07004)] GuidedQuant: Large Language Model Quantization via Exploiting End Loss Guidance [[code](https://github.com/snu-mllab/GuidedQuant)]![GitHub Repo stars](https://img.shields.io/github/stars/snu-mllab/GuidedQuant)
+
 ### 2024
 
 - [[TMLR](https://openreview.net/pdf?id=IEKtMMSblm)] PLUM: Improving Inference Efficiency By Leveraging Repetition-Sparsity Trade-Off [[code](https://github.com/sachitkuhar/PLUM)][[webpage](https://github.com/sachitkuhar/PLUM)][[video](https://www.youtube.com/watch?v=nE_CYDWqQ_I)][**`bnn`**] [**`inference`**]
